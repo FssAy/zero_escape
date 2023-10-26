@@ -6,3 +6,4 @@ authors = ["FssAy"]
 license = "GPL-3.0-only"
 documentation = "https://docs.rs/zero_escape/latest/zero_escape/"
 repository = "https://github.com/FssAy/zero_escape"
+description = "Provides encoding and decoding data using the Zero Escape Encoding method."
