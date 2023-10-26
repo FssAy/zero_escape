@@ -31,6 +31,11 @@ fn main() {
 }
 ```
 
+## Diagram
+The following diagram shows how the encoding algorithm works:
+
+<img src="https://raw.githubusercontent.com/FssAy/zero_escape/master/assets/diagram.jpg">
+
 ## License
 
 This project is licensed under the GPL-3.0-only license.
